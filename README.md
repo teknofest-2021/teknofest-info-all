@@ -4,6 +4,18 @@
 ---
 This file contains all the information and necessary documents of the 2 projects. Here you will find a lot of important information you are looking for. You can also add your changes. If you see something missing or wrong, please feel free to change it.
 
+## Topics
+
+All our applications are developed and managed on a cloud-based Linux Ubuntu Server. User accounts are set up, application installations and server configured. Built fully automated CI/CD pipelines for containerized applications using Docker, Jenkins, and Github. Developed in accordance with DevOps and CI/CD processes.
+
+### Diji-DOM | Digital Twin for Tomato 
+- Created a virtual twin for a tomato plant, and efficient growing conditions were modeled according to the current state of the plant. Designed an unmanned ground vehicle for plant controls. Built machine learning models to study the state of tomatoes. (for tomato, color, leaf damage, and insect detection)
+- Developed a mobile application in React Native to follow the current status of vehicle movements and plants. Developed RESTful APIs with .Net Core and C# for communication between application services. A database design was made to permanently store the data and use it in the analysis phase. Stored plant data in a PostgreSQL database.
+
+### SanAmuze | Creating an Autonomous Virtual Museum 
+- Designed an unmanned ground vehicle that automatically creates a virtual museum to make children love museums and to include them in education. For a better understanding of the artifacts, 3D models were created automatically using image processing algorithms.
+- Developed a mobile application where children can compare the similarity of their drawings to the artifacts to have fun and get to know the artifacts more closely. Developed RESTful APIs with Python Flask for communication between application services.
+
 ## Helpful Links
 * GitHub : https://github.com/teknofest-2021 
 * Diji-DOM Website : http://194.31.79.154:6069/   *(expired)*
